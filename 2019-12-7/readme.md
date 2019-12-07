@@ -6,3 +6,4 @@ git checkout -- readme.txt 撤回最近一次的状态
 git check -b dev 建立并切换分支
 create a new brach is quick
 dev modifyed
+master add keep do it ，No problem
