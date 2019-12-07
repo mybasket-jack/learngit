@@ -6,3 +6,4 @@ git checkout -- readme.txt 撤回最近一次的状态
 git check -b dev 建立并切换分支
 create a new brach is quick
 dev modifyed
+jack add 人生不如意之事十有八九，合并分支往往也不是一帆风顺的
